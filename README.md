@@ -1,1 +1,2 @@
 # DA_project_1_Preprocessing_Data
+We have a data with personal information about people who have a loan in the bank. Based on this information we have to prepare a report for a bank’s loan division. The task is to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan. The bank already has some data on customers’ credit worthiness. Results of the research will be use for building a credit score for a potential customer. 
